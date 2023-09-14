@@ -3,6 +3,7 @@ As for current apps: Calories can only be calculated by manually selecting foods
 ![image.png](https://pokemongle-images-1319763739.cos.ap-nanjing.myqcloud.com/sandox/img/202309140935764.png)![image.png](https://pokemongle-images-1319763739.cos.ap-nanjing.myqcloud.com/sandox/img/202309140936758.png)
 
 What can we do?
+
 Divide the lunch and dinner plates in the school canteen, accurately identify the different types of dishes and calculate the corresponding calories, record the Three Meals a Day, and control the calories easily.
 ![image.png](https://pokemongle-images-1319763739.cos.ap-nanjing.myqcloud.com/sandox/img/202309140937485.png)
 
